@@ -91,7 +91,7 @@ export function PadelProjects() {
         <div className="flex items-center gap-4 text-sm text-muted-foreground">
           <div className="flex items-center gap-1.5">
             <MapPin className="size-4 text-accent" aria-hidden="true" />
-            <span>5 locations across Bali</span>
+            <span>5 locations all over Bali</span>
           </div>
           <div className="flex items-center gap-1.5">
             <CheckCircle2 className="size-4 text-green-500" aria-hidden="true" />

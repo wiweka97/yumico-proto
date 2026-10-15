@@ -60,7 +60,7 @@ export function CustomPrint() {
           </a>
 
           <div className="mt-12 border-t border-border pt-8">
-            <p className="text-sm font-medium">Trusted across Bali&apos;s hospitality scene</p>
+            <p className="text-sm font-medium">Trusted all over Bali&apos;s hospitality scene</p>
             <ul className="mt-4 flex flex-wrap gap-x-6 gap-y-3">
               {sectors.map((s) => (
                 <li key={s} className="flex items-center gap-2 text-sm text-muted-foreground">

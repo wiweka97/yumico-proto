@@ -27,7 +27,7 @@ export default function ProductsPage() {
               </h1>
               <p className="mt-5 max-w-xl text-pretty leading-relaxed text-primary-foreground/80">
                 Eleven categories, hundreds of sizes. Pick what you need and we&apos;ll quote you on WhatsApp,
-                with delivery across Bali.
+                with delivery all over Bali.
               </p>
             </div>
             <a

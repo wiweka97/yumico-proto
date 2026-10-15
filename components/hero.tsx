@@ -16,7 +16,7 @@ export function Hero() {
           </h1>
           <p className="mt-6 max-w-xl text-pretty text-lg leading-relaxed text-muted-foreground">
             Eco-friendly food containers, custom-printed packaging and hotel supplies for cafés,
-            restaurants, bakeries and resorts across Bali — at fair prices, delivered free.
+            restaurants, bakeries and resorts all over Bali — at fair prices, delivered free.
           </p>
 
           <div className="mt-8 flex flex-col gap-3 sm:flex-row">

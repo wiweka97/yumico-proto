@@ -9,7 +9,7 @@ const fraunces = Fraunces({ subsets: ['latin'], variable: '--font-fraunces' })
 export const metadata: Metadata = {
   title: 'Yumico — Food Packaging & Hotel Supplies in Bali',
   description:
-    'Since 1996, Yumico has supplied eco-friendly food packaging, custom-printed containers and hotel supplies to cafés, restaurants and hotels across Bali, with free island delivery.',
+    'Since 1996, Yumico has supplied eco-friendly food packaging, custom-printed containers and hotel supplies to cafés, restaurants and hotels all over Bali, with free island delivery.',
   generator: 'v0.app',
   icons: {
     icon: [
